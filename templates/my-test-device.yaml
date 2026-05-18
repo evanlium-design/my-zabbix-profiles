@@ -1,0 +1,11 @@
+profile:
+    id: my-test-device
+    vendor: TestVendor
+    series: X100
+    os: TestOS
+    description: M14 真实 URL fetch 测试
+    schema_version: 1
+    profile_version: 0.1.0
+    required_mibs:
+      - SNMPv2-MIB
+      - IF-MIB
